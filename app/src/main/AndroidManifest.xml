@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          xmlns:tools="http://schemas.android.com/tools"
+          package="intellidesigns.pikzel.substratum">
+
+    <uses-permission android:name="com.android.vending.CHECK_LICENSE"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/ThemeName"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        tools:node="replace">
+
+        <activity android:name="intellidesigns.pikzel.substratum.SubstratumLauncher">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="Substratum_Legacy"
+            android:value="true"/>
+        <meta-data
+            android:name="Substratum_Name"
+            android:value="@string/ThemeName"/>
+        <meta-data
+            android:name="Substratum_Author"
+            android:value="@string/ThemeAuthor"/>
+        <meta-data
+            android:name="Substratum_Email"
+            android:value=""/> <!-- Insert your email for bug reports -->
+        <!-- Do you support Stock and Theme Ready Gapps? -> all -->
+        <!-- Do you support Theme Ready but not Stock Gapps? -> ready -->
+        <!-- Do you support Stock but not Theme Ready Gapps? -> stock -->
+        <meta-data
+            android:name="Substratum_ThemeReady"
+            android:value="all|ready|stock"/> <!-- Only pick one! -->
+        <meta-data
+            android:name="Substratum_Wallpapers"
+            android:value="http://pastebin.com/raw/TG4mFdXz"/>
+
+        <!-- SUBSTRATUM INTERNAL USE: DO NOT TOUCH -->
+        <meta-data
+            android:name="Substratum_Plugin"
+            android:value="5.1.2"/>
+
+    </application>
+
+</manifest>

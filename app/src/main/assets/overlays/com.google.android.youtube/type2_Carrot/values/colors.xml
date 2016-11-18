@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_primary">#ffe67e22</color>
+    <color name="color_secondary">#ffe67e22</color>
+    <color name="theme_main_color_primary">#ffe67e22</color>
+    <color name="theme_main_color_primary_dark">#ffe67e22</color>
+    <color name="share_panel_divider_color">#00000000</color>
+    <color name="line_separator">#00000000</color>
+    <color name="theme_main_actionbar_controls_color">#ffffffff</color>
+    <color name="red">#ffe67e22</color>
+    <color name="theme_search_color_primary">#ffe67e22</color>
+    <color name="theme_search_color_primary_dark">#ffe67e22</color>
+    <color name="theme_search_actionbar_text_color_primary">#ffffffff</color>
+    <color name="theme_search_actionbar_text_color_secondary">#ffffffff</color>
+</resources>
