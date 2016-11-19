@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><resources>
-    <color name="accent">#ffe74c3c</color>
-<!---->
-    <color name="accent_dark">#ffe74c3c</color>
-<!---->
-    <color name="primary_color">#ffe74c3c</color>
-<!---->
-  
-  
-  
-	<color name="dialer_theme_color">@color/accent</color>
-	<color name="primary_color_dark">@color/accent_dark</color>
-    <!--<color name="dialer_theme_color_dark">@*common:color/bg_dark</color> -->
-    <color name="action_bar_background">@color/accent</color>
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_color">#ffe74c3c</color> <!-- Actionbar -->
+    <color name="primary_color_dark">#ffe74c3c</color> <!-- Statusbar -->
 </resources>
