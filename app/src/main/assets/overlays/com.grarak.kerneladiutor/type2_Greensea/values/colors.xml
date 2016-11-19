@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Kernel Adiutor -->
+<resources>    
+    <!-- Action Bar -->
+    <color name="theme_main_color_primary">#ff16a085</color>
+    
+    <!-- Status Bar -->
+    <color name="color_primary_dark">#ff16a085</color>
+    <!-- Secondary action bar header -->
+    <color name="color_primary_light">#ff16a085</color>
+    <color name="dim_foreground_material_light">#ff323232</color>
+    <color name="divider_background_dark">#00323232</color>
+    <color name="divider_background_light">#00dddddd</color>
+    <color name="statusbar_color">#ff16a085</color>
+</resources>

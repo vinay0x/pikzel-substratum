@@ -3,6 +3,8 @@
 <resources>
     <color name="primary">#ffd35400</color>
     <color name="primary_dark">#ffd35400</color>
+    <color name="primary_material_dark">#ffd35400</color>
+    <color name="primary_dark_material_dark">#ffd35400</color>   
     <color name="wave_above">#ffd35400</color>
     <color name="wave_below">#ffd35400</color>
 </resources>
