@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- SoundCloud -->
+<resources>
+    <color name="primary">#ffe74c3c</color>
+    <color name="primary_dark">ff16a085</color>
+    <color name="wave_above">#ffe74c3c</color>
+    <color name="wave_below">#ffe74c3c</color>
+</resources>

@@ -5,6 +5,8 @@
     <color name="light_blue">#ff1e1e20</color>
     <!-- Statusbar color -->
     <color name="dark_blue">#ff1e1e20</color>
+    <color name="primary_dark">#ff1e1e20</color>
+
     <!-- Links color -->
     <color name="text_link">#ff1e1e20</color>
 
