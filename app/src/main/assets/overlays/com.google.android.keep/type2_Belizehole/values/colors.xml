@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><resources>
+  <color name="accent">#f2980b9</color>
+<!---->
+    <color name="accent_dark">#f2980b9</color>
+<!---->
+  
+  
+    <color name="drawer_selected_color">@color/accent</color>
+    <color name="action_bar_background_color">@color/accent</color>
+    <color name="primary_material_dark">@color/accent</color>
+    <color name="active_action_bar_background_color">@color/accent</color>
+    <color name="primary_material_light">@color/accent</color>
+    <color name="primary_dark_material_dark">@color/accent_dark</color>
+    <color name="primary_dark_material_light">@color/accent_dark</color>
+    <color name="primary_color_dark">@color/accent_dark</color>
+    <color name="accent_color">@color/accent</color>
+    <color name="primary_color">@color/accent</color>
+    <color name="action_bar_text_color">#ffffff</color>
+</resources>
