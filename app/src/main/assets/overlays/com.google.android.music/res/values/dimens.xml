@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="nowplaying_button_size">48.0dip</dimen>
+    <dimen name="seek_thumb_default_size">10.0dip</dimen>
+    <dimen name="seek_thumb_selected_size">16.0dip</dimen>
+    <dimen name="nowplaying_lower_bar_height">80.0dip</dimen>
+    <dimen name="nowplaying_repeat_shuffle_bottom_margin">15.0dip</dimen>
+    <dimen name="nowplaying_screen_shadow_height">0.0dip</dimen>
+</resources>
