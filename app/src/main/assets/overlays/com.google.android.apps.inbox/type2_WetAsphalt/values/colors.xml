@@ -7,7 +7,7 @@
     <color name="primary_dark_material_light">#ff34495e</color>
     <color name="bt_done_green">#ff34495e</color>
     <color name="bt_container_blue">#ff34495e</color>
-    <color name="bt_snooze_yellow">#ff34495er</color>
+    <color name="bt_snooze_yellow">#ff34495e</color>
     <!-- Statusbar -->
     <color name="bt_status_bar_brick">#ff34495e</color>
     <color name="bt_status_bar_default">#ff34495e</color>
