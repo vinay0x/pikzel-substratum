@@ -1,29 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <color name="actionbar_icon_color">#ffffffff</color>
-    <color name="actionbar_text_color">#ffffffff</color>
-    <color name="actionbar_unselected_text_color">#a6ffffff</color>
-    <color name="cardview_light_background">#202026</color>
-    <color name="contact_all_list_background_color">#202026</color>
-    <color name="contact_tile_text_color">#ffffffff</color>
-    <color name="contacts_accent_color">#ffffffff</color>
-    <color name="dialtacts_secondary_text_color">#C8CCCB</color>
-    <color name="primary_color">#ff8e44ad</color> <!-- Actionbar -->
-    <color name="primary_color_dark">#ff8e44ad</color> <!-- Statusbar -->
-    <color name="divider_line_color_light">#00000000</color>
-    <color name="frequent_contact_text_color">#ffffffff</color>
-    <color name="group_list_background_color">#202026</color>
-    <color name="icon_color">#ffffff</color> <!-- Icon Color -->
-    <color name="quickcontact_entry_sub_header_text_color">#C8CCCB</color>
-    <color name="ripple_material_dark">#a0ffffff</color>
-    <color name="searchbox_background_color">#202026</color>
-    <color name="searchbox_text_color">#ffffffff</color>
-    <color name="secondary_text_color">#C8CCCB</color>
-    
-    <!-- Layers colors -->
-    
-    <color name="photo_text_bar_bg">#7F000000</color>
-    <color name="text_color_white">@android:color/white</color>
-    <color name="white">@android:color/white</color>
-    <color name="edit_kind_text_appearance_text_color">#363636</color>
+<?xml version="1.0" encoding="UTF-8"?><resources>
+    <color name="accent">#ff8e44ad</color>
+<!---->
+    <color name="accent_dark">#ff8e44ad</color>
+<!---->
+    <color name="primary_color">#ff8e44ad</color>
+<!---->
+  
+  
+  
+	<color name="dialer_theme_color">@color/accent</color>
+	<color name="primary_color_dark">@color/accent_dark</color>
+    <color name="dialer_theme_color_dark">@*common:color/bg_dark</color>
+    <color name="action_bar_background">@color/accent</color>
 </resources>
