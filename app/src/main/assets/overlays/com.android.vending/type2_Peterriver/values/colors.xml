@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><resources>
+ 
+    <color name="play_action_button_pressed_grey">#ff3498db</color>
+    <color name="account_selector_background">#ff3498db</color>
+    <color name="action_bar_selected_bg">#ff3498db</color>
+    <color name="apps_dark">#ff3498db</color>
+    <color name="apps_primary">#ff3498db</color>
+    <color name="apps_primary_disabled">#ff3498db</color>
+    <color name="apps_secondary">#ff3498db</color>
+    <color name="books_primary">#ff3498db</color>
+    <color name="books_primary_disabled">#ff3498db</color>
+    <color name="books_secondary">#ff3498db</color>
+    <color name="magazines_primary">#ff3498db</color>
+    <color name="magazines_primary_disabled">#ff3498db</color>
+    <color name="magazines_secondary">#ff3498db</color>
+    <color name="movies_primary">#ff3498db</color>
+    <color name="movies_primary_disabled">#ff3498db</color>
+    <color name="movies_secondary">#ff3498db</color>
+    <color name="multi_primary">#ff3498db</color>
+    <color name="multi_primary_disabled">#ff3498db</color>
+    <color name="multi_secondary">#ff3498db</color>
+    <color name="music_primary">#ff3498db</color>
+    <color name="music_primary_disabled">#ff3498db</color>
+    <color name="music_secondary">#ff3498db</color>
+    <color name="newsstand_primary">#ff3498db</color>
+    <color name="newsstand_secondary">#ff3498db</color>
+    <color name="play_action_bar_selected_bg">#ff3498db</color>
+    <color name="play_apps_primary">#ff3498db</color>
+    <color name="play_books_primary">#ff3498db</color>
+    <color name="play_books_secondary">#ff3498db</color>
+    <color name="play_movies_primary">#ff3498db</color>
+    <color name="play_movies_secondary">#ff3498db</color>
+    <color name="play_multi_primary">#ff3498db</color>
+    <color name="play_multi_secondary">#ff3498db</color>
+    <color name="play_music_primary">#ff3498db</color>
+    <color name="play_music_secondary">#ff3498db</color>
+    <color name="play_newsstand_primary">#ff3498db</color>
+    <color name="play_newsstand_secondary">#ff3498db</color>
+    <color name="play_tab_strip_bottom">#00fff000</color>
+    <color name="play_tab_strip_side">#00fff000</color>
+    <color name="sliding_tab_text_color_active">#ff3498db</color>
+    <color name="accent">#ff3498db</color>
+<!---->
+    <color name="ab_color">#ff3498db</color>
+<!---->
+
+ <color name="play_fg_tabs">#ff3498db</color>
+
+ </resources>
