@@ -2,9 +2,7 @@
 <!-- SoundCloud -->
 <resources>
     <color name="primary">#ff1e1e20</color>
-    <color name="primary_dark">ff16a085</color>
+    <color name="primary_dark">#ff1e1e20</color>
     <color name="wave_above">#ff1e1e20</color>
     <color name="wave_below">#ff1e1e20</color>
-    <color name="wave_progress_end">#333333</color>
-
 </resources>
