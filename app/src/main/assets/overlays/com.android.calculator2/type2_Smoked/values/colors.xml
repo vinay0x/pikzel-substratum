@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="pad_advanced_background_color">#ff1e1e20</color>
+    <color name="pad_advanced_background_color">#ff3498db</color>
 	<color name="calculator_accent_color">#ff1e1e20</color>
 	<color name="display_background_color">#ffffff</color>
 	<color name="display_formula_text_color">#ff1e1e20</color>
