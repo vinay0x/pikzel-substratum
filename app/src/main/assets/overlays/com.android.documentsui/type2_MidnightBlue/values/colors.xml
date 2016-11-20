@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><resources>
+ 
+		     <color name="settings_side_icons">#ff2c3e50</color>
+<!---->
+		     <color name="accent">#ff2c3e50</color>
+<!---->
+      <color name="accent_dark">#FF084484</color>
+<!---->
+    <color name="ab_color">#ff2c3e50</color>
+<!---->
+
+  
+      <color name="ab_text_color">#ffffff</color>
+
+  
+    <color name="material_grey_50">#ffffff</color>
+
+</resources>
