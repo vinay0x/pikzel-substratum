@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><resources>
+ 
+    <color name="tabFaviconBackground">#ff8e44ad</color>
+    <color name="qc_normal">#ff8e44ad</color>
+    <color name="floating_action_button_touch_tint">#ffffff</color>
+    <color name="qc_selected">#ffffff</color>
+     <color name="accent">#ff8e44ad</color>
+<!---->
+    <color name="primary_dark">#ff8e44ad</color>
+<!---->
+    <color name="primary">#ff8e44ad</color>
+<!---->
+  
+</resources>
