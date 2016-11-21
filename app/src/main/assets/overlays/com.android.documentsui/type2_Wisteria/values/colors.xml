@@ -1,18 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><resources>
- 
-		     <color name="settings_side_icons">#ff8e44ad</color>
-<!---->
-		     <color name="accent">#ff8e44ad</color>
-<!---->
-      <color name="accent_dark">#FF084484</color>
-<!---->
-    <color name="ab_color">#ff8e44ad</color>
-<!---->
-
-  
-      <color name="ab_text_color">#ffffff</color>
-
-  
-    <color name="material_grey_50">#ffffff</color>
-
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="gray">#ffffff</color>
 </resources>

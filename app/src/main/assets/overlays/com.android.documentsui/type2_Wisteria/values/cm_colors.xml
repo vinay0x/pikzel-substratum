@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="drawer_background_color">#ff8e44ad</color>
+	<color name="exposed_font_color_doc_grid">#ffffffff</color>
+    <color name="font_color_doc_grid">#ffffffff</color>
+</resources>
