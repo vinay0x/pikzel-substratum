@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><resources>
-    <color name="material_primary">#f2980b9r</color>
+    <color name="material_primary">#f2980b9</color>
     <color name="button_background_pressed_color">#f2980b9</color>
     <color name="button_background_focused_color">#f2980b9</color>
     <color name="material_dark">#f2980b9</color>
