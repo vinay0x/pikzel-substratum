@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#ffe67e22</color>
+    <color name="primary_dark">#ffe67e22</color>
+    <color name="primary_light">#333333</color>
+    <color name="accent">#ffe67e22</color>
+    <color name="header_action_bar_color">#ffe67e22</color>
+    <color name="black">#000000</color>
+    </resources>

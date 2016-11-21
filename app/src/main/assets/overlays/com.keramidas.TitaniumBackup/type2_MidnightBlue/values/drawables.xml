@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="solid_black">#ff000000</item>
+    <item type="drawable" name="color_restoreBackup">#ff2c3e50</item>
+    <item type="drawable" name="color_deleteBackup">#ff2c3e50</item>
+    <item type="drawable" name="color_uninstallApp">#ff2c3e50</item>
+    <item type="drawable" name="color_dkgray">#333333</item>
+    <item type="drawable" name="color_btgreen">#ff2c3e50</item>
+    <item type="drawable" name="color_warning">#ff2c3e50</item>
+</resources>

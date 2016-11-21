@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="box_logo_background">#ff7f8c8d</color>
+    <color name="box_logo_description">#ff7f8c8d</color>
+	<color name="primary_dark">#ff7f8c8d</color>
+</resources>
