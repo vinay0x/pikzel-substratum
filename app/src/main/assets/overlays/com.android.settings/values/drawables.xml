@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources> <!-- DO NOT COPY WITHOUT PERMISSION!!! COMPOSED BY BRIT (2016) -->
+    <item type="drawable" name="expanded_item_bg">#28282e</item>
+    <item type="drawable" name="expanded_item_bg_activated">#28282e</item>
+</resources>
