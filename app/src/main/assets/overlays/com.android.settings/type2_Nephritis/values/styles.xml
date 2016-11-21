@@ -2,9 +2,9 @@
 <resources xmlns:android="http://schemas.android.com/apk/res/android">
 
     <style name="Theme.SettingsBase" parent="@android:style/Theme.Material.Settings">
-        <item name="android:colorAccent">#ff16a085</item>
-        <item name="android:colorPrimary">#ff16a085</item>
-        <item name="android:colorPrimaryDark">#ff16a085</item>
+        <item name="android:colorAccent">#ff27ae60</item>
+        <item name="android:colorPrimary">#ff27ae60</item>
+        <item name="android:colorPrimaryDark">#ff27ae60</item>
         <item name="android:textColorSecondary">#ff767676</item>
         <item name="android:navigationBarColor">#000000</item>
 
@@ -23,9 +23,9 @@
     </style>
 
     <style name="Theme.Material.Settings" parent="@android:style/Theme.Material">
-        <item name="android:colorPrimary">#ff16a085</item>
-        <item name="android:colorPrimaryDark">#ff16a085</item>
-        <item name="android:colorAccent">#ff16a085</item>
+        <item name="android:colorPrimary">#ff27ae60</item>
+        <item name="android:colorPrimaryDark">#ff27ae60</item>
+        <item name="android:colorAccent">#ff27ae60</item>
     </style>
 
 </resources>
