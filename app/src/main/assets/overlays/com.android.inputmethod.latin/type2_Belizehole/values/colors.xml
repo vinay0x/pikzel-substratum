@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><resources>
-    <color name="key_background_lxx_dark">#fefefe</color>
-    <color name="key_background_lxx_light">#fefefe</color>
+    <color name="key_background_lxx_dark">#ffffff</color>
+    <color name="key_background_lxx_light">#ffffff</color>
  
 
  
@@ -26,40 +26,40 @@
   
   
   
-      <color name="highlight_color_lxx_dark">#f2980b9</color>
-    <color name="highlight_color_lxx_light">#f2980b9</color>
+      <color name="highlight_color_lxx_dark">#ff2980b9</color>
+    <color name="highlight_color_lxx_light">#ff2980b9</color>
 
   
   
-    <color name="auto_correct_color_lxx_dark">#f2980b9</color>
-    <color name="auto_correct_color_lxx_light">#f2980b9</color>
+    <color name="auto_correct_color_lxx_dark">#ff2980b9</color>
+    <color name="auto_correct_color_lxx_light">#ff2980b9</color>
 
 	
 	
-  <color name="suggested_word_color_lxx_dark">#f2980b9</color>
-       <color name="suggested_word_color_lxx_light">#f2980b9</color>
+  <color name="suggested_word_color_lxx_dark">#ff2980b9</color>
+       <color name="suggested_word_color_lxx_light">#ff2980b9</color>
 
    
    
    
-    <color name="gesture_trail_color_lxx_light">#f2980b9</color>
-   <color name="gesture_trail_color_lxx_dark">#f2980b9</color>
+    <color name="gesture_trail_color_lxx_light">#ff2980b9</color>
+   <color name="gesture_trail_color_lxx_dark">#ff2980b9</color>
     
 	
-	<color name="sliding_key_input_preview_color_lxx_dark">#fefefe</color>
-      <color name="sliding_key_input_preview_color_lxx_light">#fefefe</color>
+	<color name="sliding_key_input_preview_color_lxx_dark">#ffffff</color>
+      <color name="sliding_key_input_preview_color_lxx_light">#ffffff</color>
 
 
-  <color name="keyboard_light_bg">#fefefe</color>
-    <color name="keyboard_dark_bg">#fefefe</color>
+  <color name="keyboard_light_bg">#ffffff</color>
+    <color name="keyboard_dark_bg">#ffffff</color>
     
 	
 	<color name="light_text_color">#1e1e20</color>
     <color name="dark_text_color">#1e1e20</color>
   
-       <color name="accent">#f2980b9</color>
+       <color name="accent">#ff2980b9</color>
 <!---->
-    <color name="keyboard_bg">#fefefe</color>
+    <color name="keyboard_bg">#ffffff</color>
 <!---->
     <color name="text_color">#1e1e20</color>
 <!---->

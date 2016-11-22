@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <item type="drawable" name="action_bar_bg_home">#f2980b9</item>
-    <item type="drawable" name="action_bar_bg_apps">#f2980b9</item>
-    <item type="drawable" name="action_bar_bg_books">#f2980b9</item>
-    <item type="drawable" name="action_bar_bg_movies">#f2980b9</item>
-    <item type="drawable" name="action_bar_bg_music">#f2980b9</item>
-    <item type="drawable" name="action_bar_bg_newsstand">#f2980b9</item>
+    <item type="drawable" name="action_bar_bg_home">#ff2980b9</item>
+    <item type="drawable" name="action_bar_bg_apps">#ff2980b9</item>
+    <item type="drawable" name="action_bar_bg_books">#ff2980b9</item>
+    <item type="drawable" name="action_bar_bg_movies">#ff2980b9</item>
+    <item type="drawable" name="action_bar_bg_music">#ff2980b9</item>
+    <item type="drawable" name="action_bar_bg_newsstand">#ff2980b9</item>
   
-  <item type="drawable" name="play_action_button_newsstand_start">#f2980b9</item>
-  <item type="drawable" name="play_action_button_apps_start">#f2980b9</item>
-  <item type="drawable" name="play_action_button_books_start">#f2980b9</item>
-  <item type="drawable" name="play_action_button_movies_start">#f2980b9</item>
-  <item type="drawable" name="play_action_button_multi_start">#f2980b9</item>
-  <item type="drawable" name="play_action_button_music_start">#f2980b9</item>
+  <item type="drawable" name="play_action_button_newsstand_start">#ff2980b9</item>
+  <item type="drawable" name="play_action_button_apps_start">#ff2980b9</item>
+  <item type="drawable" name="play_action_button_books_start">#ff2980b9</item>
+  <item type="drawable" name="play_action_button_movies_start">#ff2980b9</item>
+  <item type="drawable" name="play_action_button_multi_start">#ff2980b9</item>
+  <item type="drawable" name="play_action_button_music_start">#ff2980b9</item>
   
-   <item type="drawable" name="play_action_button_newsstand">#f2980b9</item>
-  <item type="drawable" name="play_action_button_apps">#f2980b9</item>
-  <item type="drawable" name="play_action_button_books">#f2980b9</item>
-  <item type="drawable" name="play_action_button_movies">#f2980b9</item>
-  <item type="drawable" name="play_action_button_multi">#f2980b9</item>
-  <item type="drawable" name="play_action_button_music">#f2980b9</item>
+   <item type="drawable" name="play_action_button_newsstand">#ff2980b9</item>
+  <item type="drawable" name="play_action_button_apps">#ff2980b9</item>
+  <item type="drawable" name="play_action_button_books">#ff2980b9</item>
+  <item type="drawable" name="play_action_button_movies">#ff2980b9</item>
+  <item type="drawable" name="play_action_button_multi">#ff2980b9</item>
+  <item type="drawable" name="play_action_button_music">#ff2980b9</item>
  
 
-  <item type="drawable" name="play_action_button_newsstand_base">#f2980b9</item>
-  <item type="drawable" name="play_action_button_apps_base">#f2980b9</item>
-  <item type="drawable" name="play_action_button_books_base">#f2980b9</item>
-  <item type="drawable" name="play_action_button_movies_base">#f2980b9</item>
-  <item type="drawable" name="play_action_button_multi_base">#f2980b9</item>
-  <item type="drawable" name="play_action_button_music_base">#f2980b9</item>
+  <item type="drawable" name="play_action_button_newsstand_base">#ff2980b9</item>
+  <item type="drawable" name="play_action_button_apps_base">#ff2980b9</item>
+  <item type="drawable" name="play_action_button_books_base">#ff2980b9</item>
+  <item type="drawable" name="play_action_button_movies_base">#ff2980b9</item>
+  <item type="drawable" name="play_action_button_multi_base">#ff2980b9</item>
+  <item type="drawable" name="play_action_button_music_base">#ff2980b9</item>
  
 
  

@@ -1,65 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><resources>
-    <color name="key_background_lxx_dark">#fefefe</color>
-    <color name="key_background_lxx_light">#fefefe</color>
- 
 
- 
- 
- 
- <color name="key_text_color_lxx_dark">#1e1e20</color>
-     <color name="key_text_color_lxx_light">#1e1e20</color>
-
-
-
-
- <color name="key_hint_letter_color_lxx_dark">#1e1e20</color>
-      <color name="key_hint_letter_color_lxx_light">#1e1e20</color>
-
-
-
-
-
-  <color name="key_functional_text_color_lxx_dark">#1e1e20</color>
-      <color name="key_functional_text_color_lxx_light">#1e1e20</color>
-
-
-  
-  
-  
-      <color name="highlight_color_lxx_dark">#ff16a085</color>
-    <color name="highlight_color_lxx_light">#ff16a085</color>
-
-  
-  
-    <color name="auto_correct_color_lxx_dark">#ff16a085</color>
-    <color name="auto_correct_color_lxx_light">#ff16a085</color>
-
-	
-	
-  <color name="suggested_word_color_lxx_dark">#ff16a085</color>
-       <color name="suggested_word_color_lxx_light">#ff16a085</color>
-
-   
-   
-   
-    <color name="gesture_trail_color_lxx_light">#ff16a085</color>
-   <color name="gesture_trail_color_lxx_dark">#ff16a085</color>
-    
-	
-	<color name="sliding_key_input_preview_color_lxx_dark">#fefefe</color>
-      <color name="sliding_key_input_preview_color_lxx_light">#fefefe</color>
-
-
-  <color name="keyboard_light_bg">#fefefe</color>
-    <color name="keyboard_dark_bg">#fefefe</color>
-    
-	
-	<color name="light_text_color">#1e1e20</color>
-    <color name="dark_text_color">#1e1e20</color>
-  
        <color name="accent">#ff16a085</color>
-<!---->
-    <color name="keyboard_bg">#fefefe</color>
+
 <!---->
     <color name="text_color">#1e1e20</color>
 <!---->

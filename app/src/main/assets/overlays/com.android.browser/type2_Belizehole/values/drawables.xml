@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <item type="drawable" name="browsertab_add">#f2980b9</item>
-    <item type="drawable" name="browsertab_add_focused">#f2980b9</item>
-    <item type="drawable" name="browsertab_inactive">#f2980b9</item>
-    <item type="drawable" name="bg_browsertabs">#f2980b9</item>
+    <item type="drawable" name="browsertab_add">#ff2980b9</item>
+    <item type="drawable" name="browsertab_add_focused">#ff2980b9</item>
+    <item type="drawable" name="browsertab_inactive">#ff2980b9</item>
+    <item type="drawable" name="bg_browsertabs">#ff2980b9</item>
     
    
 </resources>

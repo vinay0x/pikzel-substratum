@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- Change these for variants (Lights) -->
-    <drawable name="actionbar_background">#f2980b9</drawable> 
-    <drawable name="new_messages_indicator">#f2980b9</drawable>
-    <color name="primary">#f2980b9</color>
-    <color name="abs__holo_blue_light">#f2980b9</color>
-    <color name="section_text">#f2980b9</color>
-    <color name="voice_note_scrubber_blue">#f2980b9</color>
-    <color name="voice_note_scrubber_green">#f2980b9</color>
-    <color name="voice_note_scrubber_grey">#f2980b9</color>
-    <color name="ripple_material_dark">#f2980b9</color>
-    <color name="ripple_material_light">#f2980b9</color>
-    <color name="music_scrubber">#f2980b9</color>
-    <color name="notice_text">#f2980b9</color>
+    <drawable name="actionbar_background">#ff2980b9</drawable> 
+    <drawable name="new_messages_indicator">#ff2980b9</drawable>
+    <color name="primary">#ff2980b9</color>
+    <color name="abs__holo_blue_light">#ff2980b9</color>
+    <color name="section_text">#ff2980b9</color>
+    <color name="voice_note_scrubber_blue">#ff2980b9</color>
+    <color name="voice_note_scrubber_green">#ff2980b9</color>
+    <color name="voice_note_scrubber_grey">#ff2980b9</color>
+    <color name="ripple_material_dark">#ff2980b9</color>
+    <color name="ripple_material_light">#ff2980b9</color>
+    <color name="music_scrubber">#ff2980b9</color>
+    <color name="notice_text">#ff2980b9</color>
     <color name="action_mode_dark">#0b5a55</color>
-    <color name="group_admin">#f2980b9</color>
+    <color name="group_admin">#ff2980b9</color>
 
     <!-- Change these for variants (Darkss) -->
-    <color name="primary_dark">#f2980b9</color>
-    <color name="accent">#f2980b9</color>
+    <color name="primary_dark">#ff2980b9</color>
+    <color name="accent">#ff2980b9</color>
 
 
     <color name="list_item_selected">#8030716c</color>

@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><resources>
-     <color name="accent">#f2980b9</color>
+     <color name="accent">#ff2980b9</color>
 <!---->
-    <color name="accent_dark">#f2980b9</color>
+    <color name="accent_dark">#ff2980b9</color>
 <!---->
-    <color name="primary_blue">#f2980b9</color>
+    <color name="primary_blue">#ff2980b9</color>
 <!---->
   
   
-    <color name="card_pressed_background">#f2980b9</color>
-    <color name="card_pressed_background_dark">#f2980b9</color>
-    <color name="accent_material_light">#f2980b9</color>
-    <color name="primary_blue_dark">#f2980b9</color>
+    <color name="card_pressed_background">#ff2980b9</color>
+    <color name="card_pressed_background_dark">#ff2980b9</color>
+    <color name="accent_material_light">#ff2980b9</color>
+    <color name="primary_blue_dark">#ff2980b9</color>
 
 
   

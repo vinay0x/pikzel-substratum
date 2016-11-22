@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources> <!-- Made by IntelliDesigns (2016) -->
     <style name="PeopleTheme1" parent="@android:style/Theme.Material">
-        <item name="android:colorPrimary">#f2980b9</item>
-        <item name="android:colorPrimaryDark">#f2980b9</item>
-        <item name="android:colorAccent">#f2980b9</item>
+        <item name="android:colorPrimary">#ff2980b9</item>
+        <item name="android:colorPrimaryDark">#ff2980b9</item>
+        <item name="android:colorAccent">#ff2980b9</item>
         <item name="android:colorBackground">#ffffff</item>
     </style>
     <style name="ContactsActionBarTabBarStyle" parent="@android:style/Widget.Material.ActionBar.TabBar">
@@ -21,13 +21,13 @@
         <item name="android:textColor">#ffffffff</item>
     </style>
     <style name="DetailActivityTheme" parent="@android:style/Theme.Material">
-        <item name="android:colorPrimary">#f2980b9</item>
-        <item name="android:colorPrimaryDark">#f2980b9</item>
-	    <item name="android:statusBarColor">#f2980b9</item>
+        <item name="android:colorPrimary">#ff2980b9</item>
+        <item name="android:colorPrimaryDark">#ff2980b9</item>
+	    <item name="android:statusBarColor">#ff2980b9</item>
 	    <item name="android:colorBackground">#232329</item>
 	</style>
 	<style name="ConfirmAddDetailDialogTheme" parent="@android:style/Theme.Material.Dialog.MinWidth">
-        <item name="android:colorAccent">#f2980b9</item>
+        <item name="android:colorAccent">#ff2980b9</item>
         <item name="android:colorBackground">#202026</item>
         <item name="android:windowBackground">@*android:color/material_grey_900</item>
         <item name="android:windowCloseOnTouchOutside">true</item>
