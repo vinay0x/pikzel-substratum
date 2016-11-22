@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><resources>
-    <style name="PickerDialogTheme" parent="@*android:style/Theme.DeviceDefault.Dialog.Alert">
-        <item name="android:colorPrimary">#ff1e1e20</item>
-        <item name="android:colorPrimaryDark">#ff1e1e20</item>
-        <item name="android:colorAccent">#ff1e1e20</item>
-    </style>
-</resources>

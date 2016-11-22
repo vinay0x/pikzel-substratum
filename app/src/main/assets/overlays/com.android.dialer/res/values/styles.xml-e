@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><resources>
-    <style name="SettingsStyle" parent="@android:style/Theme.Material.Light">
-    </style>
-    <style name="AlertDialogTheme" parent="@android:style/Theme.Material.Light.Dialog">
-    </style>
-</resources>

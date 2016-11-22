@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <color name="quantum_panel_text_color">#ffffffff</color>
-    <color name="quantum_panel_text_shadow_color">#ff000000</color>
-</resources>
