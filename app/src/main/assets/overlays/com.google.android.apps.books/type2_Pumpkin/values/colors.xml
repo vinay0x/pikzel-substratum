@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="material_light_blue_800">#ffd35400</color>
+    <color name="material_light_blue_600">#ffd35400</color>
+
+    <color name="ripple_material_dark">#ffd35400</color>
+    <color name="ripple_material_light">#ffd35400</color>
+
+    <color name="play_apps_light">#333333</color>
+    <color name="play_apps_primary">#ffd35400</color>
+    <color name="play_apps_primary_disabled">#802e2e2e</color>
+    <color name="play_apps_recents">#ffd35400</color>
+    <color name="play_apps_secondary">#3333333</color>
+
+    <color name="play_books_light">#333333</color>
+    <color name="play_books_primary">#ffd35400</color>
+    <color name="play_books_primary_disabled">#802e2e2e</color>
+    <color name="play_books_recents">#ffd35400</color>
+    <color name="play_books_secondary">#3333333</color>
+
+    <color name="play_movies_light">#333333</color>
+    <color name="play_movies_primary">#ffd35400</color>
+    <color name="play_movies_primary_disabled">#802e2e2e</color>
+    <color name="play_movies_recents">#ffd35400</color>
+    <color name="play_movies_secondary">#3333333</color>
+
+    <color name="play_multi_light">#333333</color>
+    <color name="play_multi_primary">#ffd35400</color>
+    <color name="play_multi_primary_disabled">#802e2e2e</color>
+    <color name="play_multi_recents">#ffd35400</color>
+    <color name="play_multi_secondary">#3333333</color>
+
+    <color name="play_music_light">#333333</color>
+    <color name="play_music_primary">#ffd35400</color>
+    <color name="play_music_primary_disabled">#802e2e2e</color>
+    <color name="play_music_recents">#ffd35400</color>
+    <color name="play_music_secondary">#3333333</color>
+
+    <color name="play_newsstand_light">#333333</color>
+    <color name="play_newsstand_primary">#ffd35400</color>
+    <color name="play_newsstand_primary_disabled">#802e2e2e</color>
+    <color name="play_newsstand_recents">#ffd35400</color>
+    <color name="play_newsstand_secondary">#3333333</color>
+
+    <color name="play_onboard_accent_color_a">
+#ffd35400</color>
+    <color name="play_onboard_accent_color_b">
+#ffd35400</color>
+    <color name="play_onboard_accent_color_c">
+#ffd35400</color>
+    <color name="play_onboard_accent_color_d">
+#ffd35400</color>
+
+    <color name="books_corpora_primary_66pc">#aa496ba1</color>
+    <color name="books_corpora_primary_60pc">#99496ba1</color>
+    <color name="books_corpora_primary_50pc">#80496ba1</color>
+    <color name="books_corpora_primary_40pc">#66496ba1</color>
+    <color name="books_corpora_primary_20pc">#33496ba1</color>
+    <color name="books_corpora_dark_66pc">#aa40608a</color>
+
+    <color name="play_ripple_dark">#ffd35400</color>
+    <color name="play_ripple_light">#ffd35400</color>
+
+    <color name="volumes_section_title_underline">#ffd35400</color>
+
+    <color name="play_highlight_blue_fill">#80496ba1</color>
+    <color name="play_highlight_blue_outline">#ffd35400</color>
+
+    <color name="play_avatar_focused_outline">#802e2e2e</color>
+    <color name="play_avatar_pressed_outline">#ffd35400</color>
+
+    <color name="material_red_700">#ffd35400</color>
+    <color name="material_red_500">#ffd35400</color>
+</resources>
