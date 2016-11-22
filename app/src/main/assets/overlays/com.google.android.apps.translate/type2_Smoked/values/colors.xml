@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><resources>
+     <color name="accent">#ff1e1e20</color>
+<!---->
+    <color name="accent_dark">#ff1e1e20</color>
+<!---->
+    <color name="primary_blue">#ff1e1e20</color>
+<!---->
+  
+  
+    <color name="card_pressed_background">#ff1e1e20</color>
+    <color name="card_pressed_background_dark">#ff1e1e20</color>
+    <color name="accent_material_light">#ff1e1e20</color>
+    <color name="primary_blue_dark">#ff1e1e20</color>
+
+
+  
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><resources>
+     <color name="accent">#ffe74c3c</color>
+<!---->
+    <color name="accent_dark">#ffe74c3c</color>
+<!---->
+    <color name="primary_blue">#ffe74c3c</color>
+<!---->
+  
+  
+    <color name="card_pressed_background">#ffe74c3c</color>
+    <color name="card_pressed_background_dark">#ffe74c3c</color>
+    <color name="accent_material_light">#ffe74c3c</color>
+    <color name="primary_blue_dark">#ffe74c3c</color>
+
+
+  
+</resources>
