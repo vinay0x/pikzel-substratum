@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="cabinet_accent_color">#ff1e1e20</color>
+    <color name="cabinet_color">#ff1e1e20</color>
+    <color name="primary_dark_material_dark">#ff1e1e20</color>
+    <color name="primary_material_dark">#ff1e1e20</color>
+	<color name="primary">#ff1e1e20</color>
+	<color name="primary_dark">#ff1e1e20</color>
+    <color name="non_colored_folder">#ff1e1e20</color>
+    <color name="dark_background">#ff1e1e20</color>
+    <color name="dark_theme_gray">#ff1e1e20</color>
+    <color name="dark_theme_gray_darker">#ff1e1e20</color>
+    <color name="md_material_blue_600">#ff1e1e20</color>
+    <color name="md_material_blue_800">#ff1e1e20</color>
+</resources>

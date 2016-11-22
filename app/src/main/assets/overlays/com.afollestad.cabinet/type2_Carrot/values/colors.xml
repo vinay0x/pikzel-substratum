@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="cabinet_accent_color">#ffe67e22</color>
+    <color name="cabinet_color">#ffe67e22</color>
+    <color name="primary_dark_material_dark">#ffe67e22</color>
+    <color name="primary_material_dark">#ffe67e22</color>
+	<color name="primary">#ffe67e22</color>
+	<color name="primary_dark">#ffe67e22</color>
+    <color name="non_colored_folder">#ffe67e22</color>
+    <color name="dark_background">#ffe67e22</color>
+    <color name="dark_theme_gray">#ffe67e22</color>
+    <color name="dark_theme_gray_darker">#ffe67e22</color>
+    <color name="md_material_blue_600">#ffe67e22</color>
+    <color name="md_material_blue_800">#ffe67e22</color>
+</resources>
