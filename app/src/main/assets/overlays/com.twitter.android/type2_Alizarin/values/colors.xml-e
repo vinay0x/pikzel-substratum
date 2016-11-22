@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <!-- Actionbar color -->
+    <color name="twitter_blue">#ffe74c3c</color>
+    <color name="light_blue">#ffe74c3c</color>
+    <!-- Statusbar color -->
+    <color name="dark_blue">#ffe74c3c</color>
+    <color name="primary_dark">#ffe74c3c</color>
+
+    <!-- Links color -->
+    <color name="text_link">#ffe74c3c</color>
+
+</resources>

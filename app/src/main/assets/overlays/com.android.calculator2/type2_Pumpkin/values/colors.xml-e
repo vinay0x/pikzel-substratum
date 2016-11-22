@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="pad_advanced_background_color">#ffd35400</color>
+	<color name="calculator_accent_color">#ffd35400</color>
+	<color name="display_background_color">#ffffff</color>
+	<color name="display_formula_text_color">#ffd35400</color>
+    <color name="display_result_text_color">#ffd35400</color>
+    <color name="pad_advanced_text_color_normal">#ffffff</color>
+</resources>

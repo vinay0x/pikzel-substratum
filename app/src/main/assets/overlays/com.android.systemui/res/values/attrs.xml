@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources> <!-- DO NOT COPY WITHOUT PERMISSION!!! COMPOSED BY BRIT (2016) -->
+<resources> <!-- Made by IntelliDesigns (2016) -->
     <attr name="backgroundColor" format="integer" />
     <attr name="fillColor" format="integer" />
     <attr name="singleToneColor" format="integer" />

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="browsertab_add">#ff1e1e20</item>
+    <item type="drawable" name="browsertab_add_focused">#ff1e1e20</item>
+    <item type="drawable" name="browsertab_inactive">#ff1e1e20</item>
+    <item type="drawable" name="bg_browsertabs">#ff1e1e20</item>
+    
+   
+</resources>

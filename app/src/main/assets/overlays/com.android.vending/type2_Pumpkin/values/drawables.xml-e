@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="action_bar_bg_home">#ffd35400</item>
+    <item type="drawable" name="action_bar_bg_apps">#ffd35400</item>
+    <item type="drawable" name="action_bar_bg_books">#ffd35400</item>
+    <item type="drawable" name="action_bar_bg_movies">#ffd35400</item>
+    <item type="drawable" name="action_bar_bg_music">#ffd35400</item>
+    <item type="drawable" name="action_bar_bg_newsstand">#ffd35400</item>
+  
+  <item type="drawable" name="play_action_button_newsstand_start">#ffd35400</item>
+  <item type="drawable" name="play_action_button_apps_start">#ffd35400</item>
+  <item type="drawable" name="play_action_button_books_start">#ffd35400</item>
+  <item type="drawable" name="play_action_button_movies_start">#ffd35400</item>
+  <item type="drawable" name="play_action_button_multi_start">#ffd35400</item>
+  <item type="drawable" name="play_action_button_music_start">#ffd35400</item>
+  
+   <item type="drawable" name="play_action_button_newsstand">#ffd35400</item>
+  <item type="drawable" name="play_action_button_apps">#ffd35400</item>
+  <item type="drawable" name="play_action_button_books">#ffd35400</item>
+  <item type="drawable" name="play_action_button_movies">#ffd35400</item>
+  <item type="drawable" name="play_action_button_multi">#ffd35400</item>
+  <item type="drawable" name="play_action_button_music">#ffd35400</item>
+ 
+
+  <item type="drawable" name="play_action_button_newsstand_base">#ffd35400</item>
+  <item type="drawable" name="play_action_button_apps_base">#ffd35400</item>
+  <item type="drawable" name="play_action_button_books_base">#ffd35400</item>
+  <item type="drawable" name="play_action_button_movies_base">#ffd35400</item>
+  <item type="drawable" name="play_action_button_multi_base">#ffd35400</item>
+  <item type="drawable" name="play_action_button_music_base">#ffd35400</item>
+ 
+
+ 
+   </resources>

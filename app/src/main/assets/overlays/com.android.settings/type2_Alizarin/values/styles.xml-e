@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="Theme.SettingsBase" parent="@android:style/Theme.Material.Settings">
+        <item name="android:colorAccent">#ffe74c3c</item>
+        <item name="android:colorPrimary">#ffe74c3c</item>
+        <item name="android:colorPrimaryDark">#ffe74c3c</item>
+        <item name="android:textColorSecondary">#ff767676</item>
+        <item name="android:navigationBarColor">#000000</item>
+
+    </style>
+
+    <style name="Theme.ActionBar" parent="@android:style/Widget.Material.Light.ActionBar.Solid">
+        <item name="android:elevation">0dp</item>
+    </style>
+
+    <style name="TextAppearance.Small" parent="@android:style/TextAppearance.Material.Small" />
+    <style name="TextAppearance.CategoryTitle" parent="@android:style/TextAppearance.Material.Small">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#ff5C5C5C</item>
+        <item name="android:textAllCaps">true</item>
+
+    </style>
+
+    <style name="Theme.Material.Settings" parent="@android:style/Theme.Material">
+        <item name="android:colorPrimary">#ffe74c3c</item>
+        <item name="android:colorPrimaryDark">#ffe74c3c</item>
+        <item name="android:colorAccent">#ffe74c3c</item>
+    </style>
+
+</resources>

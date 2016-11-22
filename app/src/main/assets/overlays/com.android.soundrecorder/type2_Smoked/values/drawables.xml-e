@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="statusbar_drawable">#ff1e1e20</item>
+    <item type="drawable" name="bg_material_selectionbar">#ff1e1e20</item>
+    <item type="drawable" name="bg_material_titlebar">#ff1e1e20</item>
+    <item type="drawable" name="bg_material_statusbar">#ff1e1e20</item>
+    <item type="drawable" name="bg_header">#ff1e1e20</item>
+   
+</resources>

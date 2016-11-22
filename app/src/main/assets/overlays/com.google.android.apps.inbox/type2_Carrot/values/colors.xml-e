@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Actionbar -->
+    <color name="primary_material_dark">#ffe67e22</color>
+    <color name="primary_material_light">#ffe67e22</color>
+    <color name="primary_dark_material_dark">#ffe67e22</color>
+    <color name="primary_dark_material_light">#ffe67e22</color>
+    <color name="bt_done_green">#ffe67e22</color>
+    <color name="bt_container_blue">#ffe67e22</color>
+    <color name="bt_snooze_yellow">#ffe67e22</color>
+    <!-- Statusbar -->
+    <color name="bt_status_bar_brick">#ffe67e22</color>
+    <color name="bt_status_bar_default">#ffe67e22</color>
+    <color name="bt_status_bar_done">#ffe67e22</color>
+    <color name="bt_status_bar_inbox">#ffe67e22</color>
+    <color name="bt_status_bar_snoozed">#ffe67e22</color>
+    <color name="bt_status_bar_white">#ffe67e22</color>
+    
+    <color name="toastbar-background">#ffe67e22</color>
+
+</resources>

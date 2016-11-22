@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><resources>
+    <color name="accent">#ffd35400</color>
+    <color name="accent_dark">#ffd35400</color>  
+    <color name="drawer_selected_color">#ffd35400</color>
+    <color name="action_bar_background_color">#ffd35400</color>
+    <color name="primary_material_dark">#ffd35400</color>
+    <color name="active_action_bar_background_color">#ffd35400</color>
+    <color name="primary_material_light">#ffd35400</color>
+    <color name="primary_dark_material_dark">#ffd35400</color>
+    <color name="primary_dark_material_light">#ffd35400</color>
+    <color name="primary_color_dark">#ffd35400</color>
+    <color name="accent_color">#ffd35400</color>
+    <color name="primary_color">#ffd35400</color>
+    <color name="action_bar_text_color">#ffffff</color>
+</resources>

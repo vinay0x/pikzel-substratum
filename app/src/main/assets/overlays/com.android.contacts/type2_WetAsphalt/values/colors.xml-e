@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_color">#ff34495e</color> <!-- Actionbar -->
+    <color name="primary_color_dark">#ff34495e</color> <!-- Statusbar -->
+    <color name="accent">#ff34495e</color>
+</resources>

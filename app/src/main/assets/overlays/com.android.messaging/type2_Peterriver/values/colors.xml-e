@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="letter_tile_grey_color">#ff565656</color>
+
+    <color name="actionbar_background_color">#ff3498db</color>
+    <color name="actionbar_background_color_dark">#ff3498db</color>
+
+    <color name="mms_theme_color">#ff3498db</color>
+    <color name="mms_theme_color_dark">#ff3498db</color>
+    <color name="mms_theme_color_accent">#ff3498db</color>
+
+    <color name="actionbar_text">#ffffffff</color>
+
+
+    <color name="holo_list_background_color">#ffffffff</color>
+    <color name="selected_list_item_bg">#ffffffff</color>
+    <color name="dividers">#ffffffff</color>
+    <color name="compose_message_divider_color">#ffffffff</color>
+
+</resources>

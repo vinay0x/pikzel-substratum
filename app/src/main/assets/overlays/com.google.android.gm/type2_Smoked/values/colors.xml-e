@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><resources>
+    <!-- Actionbar -->
+    <color name="primary_color">#ff1e1e20</color>
+    <color name="primary_material_dark">#ff1e1e20</color>
+    <color name="primary_material_light">#ff1e1e20</color>
+	
+    <!-- Statusbar -->
+    <color name="primary_dark_color">#ff1e1e20</color>
+    <color name="primary_dark_material_dark">#ff1e1e20</color>
+    <color name="primary_dark_material_light">#ff1e1e20</color>
+    
+    <color name="swipe_refresh_color1">#ff1e1e20</color>
+    <color name="swipe_refresh_color2">#ff1e1e20</color>
+    <color name="swipe_refresh_color3">#ff1e1e20</color>
+    <color name="subject_text_color_read">#ff1e1e20</color>
+    <color name="swipe_refresh_color4">#ff1e1e20</color>
+</resources>

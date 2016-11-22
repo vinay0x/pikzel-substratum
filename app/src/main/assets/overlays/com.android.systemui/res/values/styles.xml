@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources> <!-- DO NOT COPY WITHOUT PERMISSION!!! COMPOSED BY BRIT (2016) -->
+<resources> <!-- Made by IntelliDesigns (2016) -->
 	<style name="Theme.SystemUI.Dialog" parent="@android:style/Theme.Material.Dialog">
         <item name="android:colorControlActivated">#ffeeeeee</item>
         <item name="android:colorPrimary">#202026</item>
