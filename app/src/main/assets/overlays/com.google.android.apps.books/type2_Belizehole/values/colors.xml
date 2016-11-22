@@ -10,37 +10,37 @@
     <color name="play_apps_primary">#f2980b9</color>
     <color name="play_apps_primary_disabled">#802e2e2e</color>
     <color name="play_apps_recents">#f2980b9</color>
-    <color name="play_apps_secondary">#3333333</color>
+    <color name="play_apps_secondary">#333333</color>
 
     <color name="play_books_light">#333333</color>
     <color name="play_books_primary">#f2980b9</color>
     <color name="play_books_primary_disabled">#802e2e2e</color>
     <color name="play_books_recents">#f2980b9</color>
-    <color name="play_books_secondary">#3333333</color>
+    <color name="play_books_secondary">#333333</color>
 
     <color name="play_movies_light">#333333</color>
     <color name="play_movies_primary">#f2980b9</color>
     <color name="play_movies_primary_disabled">#802e2e2e</color>
     <color name="play_movies_recents">#f2980b9</color>
-    <color name="play_movies_secondary">#3333333</color>
+    <color name="play_movies_secondary">#333333</color>
 
     <color name="play_multi_light">#333333</color>
     <color name="play_multi_primary">#f2980b9</color>
     <color name="play_multi_primary_disabled">#802e2e2e</color>
     <color name="play_multi_recents">#f2980b9</color>
-    <color name="play_multi_secondary">#3333333</color>
+    <color name="play_multi_secondary">#333333</color>
 
     <color name="play_music_light">#333333</color>
     <color name="play_music_primary">#f2980b9</color>
     <color name="play_music_primary_disabled">#802e2e2e</color>
     <color name="play_music_recents">#f2980b9</color>
-    <color name="play_music_secondary">#3333333</color>
+    <color name="play_music_secondary">#333333</color>
 
     <color name="play_newsstand_light">#333333</color>
     <color name="play_newsstand_primary">#f2980b9</color>
     <color name="play_newsstand_primary_disabled">#802e2e2e</color>
     <color name="play_newsstand_recents">#f2980b9</color>
-    <color name="play_newsstand_secondary">#3333333</color>
+    <color name="play_newsstand_secondary">#333333</color>
 
     <color name="play_onboard_accent_color_a">
 #f2980b9</color>
