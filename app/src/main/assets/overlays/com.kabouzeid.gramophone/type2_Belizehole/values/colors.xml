@@ -6,9 +6,9 @@
     <color name="background_material_light">#ffffffff</color>
     <color name="cardview_dark_background">#1e1e20</color>
     <color name="background_floating_material_dark">#1e1e20</color>
-    <color name="primary_dark_material_dark">#ff2980b9</color>
-    <color name="primary_material_dark">#ff2980b9</color>
-	<color name="primary">#ff2980b9</color>
-	<color name="primary_dark">#ff2980b9</color>
+    <color name="primary_dark_material_dark">#ff246d9c</color>
+    <color name="primary_material_dark">#ff246d9c</color>
+	<color name="primary">#ff246d9c</color>
+	<color name="primary_dark">#ff246d9c</color>
     <color name="snackbar_background_color">#1e1e20</color>
 </resources>

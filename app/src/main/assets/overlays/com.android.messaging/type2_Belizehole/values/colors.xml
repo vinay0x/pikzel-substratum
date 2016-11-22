@@ -2,12 +2,12 @@
 <resources>
     <color name="letter_tile_grey_color">#ff565656</color>
 
-    <color name="actionbar_background_color">#ff2980b9</color>
-    <color name="actionbar_background_color_dark">#ff2980b9</color>
+    <color name="actionbar_background_color">#ff246d9c</color>
+    <color name="actionbar_background_color_dark">#ff246d9c</color>
 
-    <color name="mms_theme_color">#ff2980b9</color>
-    <color name="mms_theme_color_dark">#ff2980b9</color>
-    <color name="mms_theme_color_accent">#ff2980b9</color>
+    <color name="mms_theme_color">#ff246d9c</color>
+    <color name="mms_theme_color_dark">#ff246d9c</color>
+    <color name="mms_theme_color_accent">#ff246d9c</color>
 
     <color name="actionbar_text">#ffffffff</color>
 

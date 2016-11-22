@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources> <!-- Made by IntelliDesigns (2016) -->
     <color name="navigation_bar_background_opaque">#ff000000</color>
-    <color name="notification_gear_color">#ff2980b9</color>
+    <color name="notification_gear_color">#ff246d9c</color>
     <color name="notification_guts_bg_color">#303036</color>
-    <color name="notification_header_bg">#ff2980b9</color>
+    <color name="notification_header_bg">#ff246d9c</color>
     <color name="notification_legacy_background_color">#ff1a1a1a</color>
     <color name="notification_material_background_color">#ffffffff</color>
     <color name="notification_material_background_dimmed_color">#ccffffff</color>
     <color name="notification_material_background_low_priority_color">#fff5f5f5</color>
     <color name="notification_material_background_media_default_color">#47474D</color>
     <color name="notification_shade_background_color">#303036</color>
-    <color name="system_accent_color">#ff2980b9</color>
+    <color name="system_accent_color">#ff246d9c</color>
     <color name="system_bar_background_opaque">#16161C</color>
     <color name="system_primary_color">#202026</color>
     <color name="system_secondary_color">#ff1E1E24</color>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources> <!-- Made by IntelliDesigns (2016) -->
-    <color name="theme5_accent_1">#ff2980b9</color>
-    <color name="theme5_primary">#ff2980b9</color>
-    <color name="theme5_primary_dark">#ff2980b9</color>
+    <color name="theme5_accent_1">#ff246d9c</color>
+    <color name="theme5_primary">#ff246d9c</color>
+    <color name="theme5_primary_dark">#ff246d9c</color>
 </resources>

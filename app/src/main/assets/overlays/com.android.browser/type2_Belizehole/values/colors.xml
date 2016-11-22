@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><resources>
  
-    <color name="tabFaviconBackground">#ff2980b9</color>
-    <color name="qc_normal">#ff2980b9</color>
+    <color name="tabFaviconBackground">#ff246d9c</color>
+    <color name="qc_normal">#ff246d9c</color>
     <color name="floating_action_button_touch_tint">#ffffff</color>
     <color name="qc_selected">#ffffff</color>
-     <color name="accent">#ff2980b9</color>
+     <color name="accent">#ff246d9c</color>
 <!---->
-    <color name="primary_dark">#ff2980b9</color>
+    <color name="primary_dark">#ff246d9c</color>
 <!---->
-    <color name="primary">#ff2980b9</color>
+    <color name="primary">#ff246d9c</color>
 <!---->
   
 </resources>

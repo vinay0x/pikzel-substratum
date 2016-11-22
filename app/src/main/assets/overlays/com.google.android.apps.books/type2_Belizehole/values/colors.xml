@@ -1,55 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="material_light_blue_800">#ff2980b9</color>
-    <color name="material_light_blue_600">#ff2980b9</color>
+    <color name="material_light_blue_800">#ff246d9c</color>
+    <color name="material_light_blue_600">#ff246d9c</color>
 
-    <color name="ripple_material_dark">#ff2980b9</color>
-    <color name="ripple_material_light">#ff2980b9</color>
+    <color name="ripple_material_dark">#ff246d9c</color>
+    <color name="ripple_material_light">#ff246d9c</color>
 
     <color name="play_apps_light">#333333</color>
-    <color name="play_apps_primary">#ff2980b9</color>
+    <color name="play_apps_primary">#ff246d9c</color>
     <color name="play_apps_primary_disabled">#802e2e2e</color>
-    <color name="play_apps_recents">#ff2980b9</color>
+    <color name="play_apps_recents">#ff246d9c</color>
     <color name="play_apps_secondary">#333333</color>
 
     <color name="play_books_light">#333333</color>
-    <color name="play_books_primary">#ff2980b9</color>
+    <color name="play_books_primary">#ff246d9c</color>
     <color name="play_books_primary_disabled">#802e2e2e</color>
-    <color name="play_books_recents">#ff2980b9</color>
+    <color name="play_books_recents">#ff246d9c</color>
     <color name="play_books_secondary">#333333</color>
 
     <color name="play_movies_light">#333333</color>
-    <color name="play_movies_primary">#ff2980b9</color>
+    <color name="play_movies_primary">#ff246d9c</color>
     <color name="play_movies_primary_disabled">#802e2e2e</color>
-    <color name="play_movies_recents">#ff2980b9</color>
+    <color name="play_movies_recents">#ff246d9c</color>
     <color name="play_movies_secondary">#333333</color>
 
     <color name="play_multi_light">#333333</color>
-    <color name="play_multi_primary">#ff2980b9</color>
+    <color name="play_multi_primary">#ff246d9c</color>
     <color name="play_multi_primary_disabled">#802e2e2e</color>
-    <color name="play_multi_recents">#ff2980b9</color>
+    <color name="play_multi_recents">#ff246d9c</color>
     <color name="play_multi_secondary">#333333</color>
 
     <color name="play_music_light">#333333</color>
-    <color name="play_music_primary">#ff2980b9</color>
+    <color name="play_music_primary">#ff246d9c</color>
     <color name="play_music_primary_disabled">#802e2e2e</color>
-    <color name="play_music_recents">#ff2980b9</color>
+    <color name="play_music_recents">#ff246d9c</color>
     <color name="play_music_secondary">#333333</color>
 
     <color name="play_newsstand_light">#333333</color>
-    <color name="play_newsstand_primary">#ff2980b9</color>
+    <color name="play_newsstand_primary">#ff246d9c</color>
     <color name="play_newsstand_primary_disabled">#802e2e2e</color>
-    <color name="play_newsstand_recents">#ff2980b9</color>
+    <color name="play_newsstand_recents">#ff246d9c</color>
     <color name="play_newsstand_secondary">#333333</color>
 
     <color name="play_onboard_accent_color_a">
-#ff2980b9</color>
+#ff246d9c</color>
     <color name="play_onboard_accent_color_b">
-#ff2980b9</color>
+#ff246d9c</color>
     <color name="play_onboard_accent_color_c">
-#ff2980b9</color>
+#ff246d9c</color>
     <color name="play_onboard_accent_color_d">
-#ff2980b9</color>
+#ff246d9c</color>
 
     <color name="books_corpora_primary_66pc">#aa496ba1</color>
     <color name="books_corpora_primary_60pc">#99496ba1</color>
@@ -58,17 +58,17 @@
     <color name="books_corpora_primary_20pc">#33496ba1</color>
     <color name="books_corpora_dark_66pc">#aa40608a</color>
 
-    <color name="play_ripple_dark">#ff2980b9</color>
-    <color name="play_ripple_light">#ff2980b9</color>
+    <color name="play_ripple_dark">#ff246d9c</color>
+    <color name="play_ripple_light">#ff246d9c</color>
 
-    <color name="volumes_section_title_underline">#ff2980b9</color>
+    <color name="volumes_section_title_underline">#ff246d9c</color>
 
     <color name="play_highlight_blue_fill">#80496ba1</color>
-    <color name="play_highlight_blue_outline">#ff2980b9</color>
+    <color name="play_highlight_blue_outline">#ff246d9c</color>
 
     <color name="play_avatar_focused_outline">#802e2e2e</color>
-    <color name="play_avatar_pressed_outline">#ff2980b9</color>
+    <color name="play_avatar_pressed_outline">#ff246d9c</color>
 
-    <color name="material_red_700">#ff2980b9</color>
-    <color name="material_red_500">#ff2980b9</color>
+    <color name="material_red_700">#ff246d9c</color>
+    <color name="material_red_500">#ff246d9c</color>
 </resources>

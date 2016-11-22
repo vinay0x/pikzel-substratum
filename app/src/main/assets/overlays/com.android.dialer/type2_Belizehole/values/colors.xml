@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><resources>
-	<color name="accent">#ff2980b9</color>
+	<color name="accent">#ff246d9c</color>
 <!---->
-    <color name="actionbar_background_color_dark">#ff2980b9</color>
+    <color name="actionbar_background_color_dark">#ff246d9c</color>
 <!---->
-     <color name="dialer_theme_color_dark">#ff2980b9</color>
+     <color name="dialer_theme_color_dark">#ff246d9c</color>
 <!---->
 	 
 	   
@@ -12,18 +12,18 @@
     <color name="ab_text_color">#ffffff</color>
 	
 	
-    <color name="dialer_theme_color">#ff2980b9</color>
+    <color name="dialer_theme_color">#ff246d9c</color>
     <color name="background_dialpad">#ffffff</color>
-    <color name="background_dialpad_pressed">#ff2980b9</color>
-    <color name="dialpad_primary_text_color">#ff2980b9</color>
-    <color name="dialpad_secondary_text_color">#ff2980b9</color>
-    <color name="dialpad_digits_text_color">#ff2980b9</color>
+    <color name="background_dialpad_pressed">#ff246d9c</color>
+    <color name="dialpad_primary_text_color">#ff246d9c</color>
+    <color name="dialpad_secondary_text_color">#ff246d9c</color>
+    <color name="dialpad_digits_text_color">#ff246d9c</color>
     <color name="dialpad_separator_line_color">#00dadada</color>
-    <color name="dialpad_icon_tint">#ff2980b9</color>
-    <color name="dialpad_voicemail_tint">#ff2980b9</color>
+    <color name="dialpad_icon_tint">#ff246d9c</color>
+    <color name="dialpad_voicemail_tint">#ff246d9c</color>
     <color name="holo_list_background_color">#ffffff</color>
     <color name="focus_color">#44ff0000</color>
-    <color name="ripple_material_dark">#ff2980b9</color>
+    <color name="ripple_material_dark">#ff246d9c</color>
     <color name="primary_text_color">#1e1e20</color>
     <color name="secondary_text_color">#1e1e20</color>
     <color name="section_header_text_color">#ff888888</color>
@@ -42,8 +42,8 @@
     <color name="quickcontact_default_photo_tint_color_dark">#ff212021</color>
     <color name="letter_tile_default_color">#ffcccccc</color>
     <color name="letter_tile_font_color">#1e1e20</color>
-    <color name="text_highlight_color">#ff2980b9</color>
-    <color name="actionbar_background_color">#ff2980b9</color>
+    <color name="text_highlight_color">#ff246d9c</color>
+    <color name="actionbar_background_color">#ff246d9c</color>
     <color name="actionbar_icon_color">#ffffff</color>
     <color name="tab_ripple_color">#50ffffff</color>
     <color name="tab_accent_color">#ffffff</color>
@@ -56,17 +56,17 @@
     <color name="searchbox_hint_text_color">#1e1e20</color>
     <color name="searchbox_icon_tint">#1e1e20</color>
     <color name="search_shortcut_background_color">#ff212021</color>
-    <color name="search_shortcut_icon_color">#ff2980b9</color>
+    <color name="search_shortcut_icon_color">#ff246d9c</color>
     <color name="background_primary">#ffffff</color>
     <color name="contact_all_list_background_color">#ff111619</color>
-    <color name="incall_background_color">#ff2980b9</color>
+    <color name="incall_background_color">#ff246d9c</color>
     <color name="incall_accent_color">#fff</color>
-    <color name="incall_call_banner_background_color">#ff2980b9</color>
+    <color name="incall_call_banner_background_color">#ff246d9c</color>
     <color name="incall_call_banner_text_color">#ffffff</color>
     <color name="incall_call_banner_subtext_color">#ffffff</color>
     <color name="incall_banner_secondary_background_color">#ffffff</color>
     <color name="incall_banner_secondary_text_color">#1e1e20</color>
-    <color name="incall_action_bar_background_color">#ff2980b9</color>
+    <color name="incall_action_bar_background_color">#ff246d9c</color>
     <color name="incall_action_bar_text_color">#ffffff</color>
     <color name="on_hold_dim_effect">#cc000000</color>
     <color name="conference_call_manager_background_color">#fff8f8f8</color>
@@ -77,7 +77,7 @@
     <color name="end_call_touch_feedback_tint">#ffdddddd</color>
     <color name="incall_dialpad_background">#ffffff</color>
     <color name="incall_dialpad_background_pressed">#ccffffff</color>
-    <color name="button_background_color">#ff2980b9</color>
+    <color name="button_background_color">#ff246d9c</color>
     <color name="button_selected_color">#ff37474f</color>
     <color name="button_default_color">#b3ffffff</color>
     <color name="button_disabled_color">#33ffffff</color>
@@ -87,7 +87,7 @@
     <color name="glowpad_text_widget_ring_color">#1e1e20</color>
     <color name="glowpad_widget_active_color">#1e1e20</color>
     <color name="glowpad_text_widget_normal_tint">#ffcccccc</color>
-    <color name="glowpad_call_widget_normal_tint">#ff2980b9</color>
+    <color name="glowpad_call_widget_normal_tint">#ff246d9c</color>
     <color name="glowpad_end_call_widget_normal_tint">#ffff1744</color>
     <color name="glowpad_incoming_widget_tint">#ffa3a3a3</color>
     <color name="glowpad_incoming_widget_background_tint">#1e1e20</color>

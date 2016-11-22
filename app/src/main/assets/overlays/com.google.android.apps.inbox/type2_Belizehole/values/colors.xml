@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- Actionbar -->
-    <color name="primary_material_dark">#ff2980b9</color>
-    <color name="primary_material_light">#ff2980b9</color>
-    <color name="primary_dark_material_dark">#ff2980b9</color>
-    <color name="primary_dark_material_light">#ff2980b9</color>
-    <color name="bt_done_green">#ff2980b9</color>
-    <color name="bt_container_blue">#ff2980b9</color>
-    <color name="bt_snooze_yellow">#ff2980b9</color>
+    <color name="primary_material_dark">#ff246d9c</color>
+    <color name="primary_material_light">#ff246d9c</color>
+    <color name="primary_dark_material_dark">#ff246d9c</color>
+    <color name="primary_dark_material_light">#ff246d9c</color>
+    <color name="bt_done_green">#ff246d9c</color>
+    <color name="bt_container_blue">#ff246d9c</color>
+    <color name="bt_snooze_yellow">#ff246d9c</color>
     <!-- Statusbar -->
-    <color name="bt_status_bar_brick">#ff2980b9</color>
-    <color name="bt_status_bar_default">#ff2980b9</color>
-    <color name="bt_status_bar_done">#ff2980b9</color>
-    <color name="bt_status_bar_inbox">#ff2980b9</color>
-    <color name="bt_status_bar_snoozed">#ff2980b9</color>
-    <color name="bt_status_bar_white">#ff2980b9</color>
+    <color name="bt_status_bar_brick">#ff246d9c</color>
+    <color name="bt_status_bar_default">#ff246d9c</color>
+    <color name="bt_status_bar_done">#ff246d9c</color>
+    <color name="bt_status_bar_inbox">#ff246d9c</color>
+    <color name="bt_status_bar_snoozed">#ff246d9c</color>
+    <color name="bt_status_bar_white">#ff246d9c</color>
     
-    <color name="toastbar-background">#ff2980b9</color>
+    <color name="toastbar-background">#ff246d9c</color>
 
 </resources>
