@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="md_divider_black">#00000000</color>
+    <color name="md_divider_white">#00ffffff</color>
+    <color name="background_material_dark">#1e1e20</color>
+    <color name="background_material_light">#ffffffff</color>
+    <color name="cardview_dark_background">#1e1e20</color>
+    <color name="background_floating_material_dark">#1e1e20</color>
+    <color name="primary_dark_material_dark">#ff8e44ad</color>
+    <color name="primary_material_dark">#ff8e44ad</color>
+	<color name="primary">#ff8e44ad</color>
+	<color name="primary_dark">#ff8e44ad</color>
+    <color name="snackbar_background_color">#1e1e20</color>
+</resources>
