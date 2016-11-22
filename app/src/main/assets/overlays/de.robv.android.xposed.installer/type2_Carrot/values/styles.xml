@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Light" parent="@android:style/Theme.Material.Light.DarkActionBar">
+         <item name="android:windowBackground">#ffffff</item>
+        <item name="android:colorPrimaryDark">#ffe67e22</item>
+        <item name="android:colorPrimary">#ffe67e22</item>
+        <item name="android:statusBarColor">#ffe67e22</item>
+    </style>
+    <style name="Theme.Dark" parent="@android:style/Theme.Material">
+        <item name="android:colorPrimary">#ffe67e22</item>
+        <item name="android:colorPrimaryDark">#ffe67e22</item>
+        <item name="android:statusBarColor">#ffe67e22</item>
+    </style>
+
+
+</resources>
