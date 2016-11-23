@@ -4,23 +4,12 @@
     <style name="Theme.SettingsBase" parent="@android:style/Theme.Material.Settings">
         <item name="android:colorAccent">#ff34495e</item>
         <item name="android:colorPrimary">#ff34495e</item>
+        <item name="android:colorControlActivated">#ff34495e</item>
         <item name="android:colorPrimaryDark">#ff34495e</item>
-        <item name="android:textColorSecondary">#ff767676</item>
-        <item name="android:navigationBarColor">#000000</item>
-
+        <item name="android:colorBackground">#ffffff</item>
+        <item name="android:listDivider">@*android:color/transparent</item>
     </style>
-
-    <style name="Theme.ActionBar" parent="@android:style/Widget.Material.Light.ActionBar.Solid">
-        <item name="android:elevation">0dp</item>
-    </style>
-
-    <style name="TextAppearance.Small" parent="@android:style/TextAppearance.Material.Small" />
-    <style name="TextAppearance.CategoryTitle" parent="@android:style/TextAppearance.Material.Small">
-        <item name="android:textStyle">bold</item>
-        <item name="android:textColor">#ff5C5C5C</item>
-        <item name="android:textAllCaps">true</item>
-
-    </style>
+    
 
     <style name="Theme.Material.Settings" parent="@android:style/Theme.Material">
         <item name="android:colorPrimary">#ff34495e</item>
