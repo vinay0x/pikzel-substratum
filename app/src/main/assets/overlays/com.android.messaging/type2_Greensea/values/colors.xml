@@ -2,51 +2,51 @@
 
 <resources>
     <!-- Statusbar Color -->
-    <color name="action_bar_background_color_dark">#ff16a0b5</color>    
-    <color name="archived_conversation_action_bar_background_color_dark">#ff16a0b5</color>
-    <color name="fab_pressed_color">#ff16a0b5</color>
-    <color name="archived_conversation_action_bar_background_color">#ff16a0b5</color>
+    <color name="action_bar_background_color_dark">#ff16a085</color>    
+    <color name="archived_conversation_action_bar_background_color_dark">#ff16a085</color>
+    <color name="fab_pressed_color">#ff16a085</color>
+    <color name="archived_conversation_action_bar_background_color">#ff16a085</color>
 
     
     <!-- Actionbar Color -->
-    <color name="primary_color">#ff16a0b5</color>
-    <color name="mms_indicator_color">#ff16a0b5</color>
-    <color name="call_subject_button">#ff16a0b5</color>
+    <color name="primary_color">#ff16a085</color>
+    <color name="mms_indicator_color">#ff16a085</color>
+    <color name="call_subject_button">#ff16a085</color>
     
     <!-- No change -->
-    <color name="background_primary">#ff16a0b5</color>
-    <color name="material_grey_50">#ff16a0b5</color>
-    <color name="timestamp_text_outgoing">#ff16a0b5</color>
-    <color name="message_text_color_outgoing">#ff16a0b5</color>
+    <color name="background_primary">#ff16a085</color>
+    <color name="material_grey_50">#ff16a085</color>
+    <color name="timestamp_text_outgoing">#ff16a085</color>
+    <color name="message_text_color_outgoing">#ff16a085</color>
     
     <!-- Accents -->
-    <color name="message_bubble_color_selected">#ff16a0b5</color>
-    <color name="letter_tile_red_color">#ff16a0b5</color>
-    <color name="letter_tile_pink_color">#ff16a0b5</color>
-    <color name="letter_tile_purple_color">#ff16a0b5</color>
-    <color name="letter_tile_deep_purple_color">#ff16a0b5</color>
-    <color name="letter_tile_indigo_color">#ff16a0b5</color>
-    <color name="letter_tile_blue_color">#ff16a0b5</color>
-    <color name="letter_tile_light_blue_color">#ff16a0b5</color>
-    <color name="letter_tile_cyan_color">#ff16a0b5</color>
-    <color name="letter_tile_teal_color">#ff16a0b5</color>
-    <color name="letter_tile_green_color">#ff16a0b5</color>
-    <color name="letter_tile_light_green_color">#ff16a0b5</color>
-    <color name="letter_tile_orange_color">#ff16a0b5</color>
-    <color name="letter_tile_deep_orange_color">#ff16a0b5</color>
-    <color name="letter_tile_grey_color">#ff16a0b5</color>
-    <color name="letter_tile_red_color_dark">#ff16a0b5</color>
-    <color name="letter_tile_pink_color_dark">#ff16a0b5</color>
-    <color name="letter_tile_purple_color_dark">#ff16a0b5</color>
-    <color name="letter_tile_deep_purple_color_dark">#ff16a0b5</color>
-    <color name="letter_tile_indigo_color_dark">#ff16a0b5</color>
-    <color name="letter_tile_blue_color_dark">#ff16a0b5</color>
-    <color name="letter_tile_light_blue_color_dark">#ff16a0b5</color>
-    <color name="letter_tile_cyan_color_dark">#ff16a0b5</color>
-    <color name="letter_tile_teal_color_dark">#ff16a0b5</color>
-    <color name="letter_tile_green_color_dark">#ff16a0b5</color>
-    <color name="letter_tile_light_green_color_dark">#ff16a0b5</color>
-    <color name="letter_tile_orange_color_dark">#ff16a0b5</color>
-    <color name="letter_tile_deep_orange_color_dark">#ff16a0b5</color>
-    <color name="letter_tile_grey_color_dark">#ff16a0b5</color>
+    <color name="message_bubble_color_selected">#ff16a085</color>
+    <color name="letter_tile_red_color">#ff16a085</color>
+    <color name="letter_tile_pink_color">#ff16a085</color>
+    <color name="letter_tile_purple_color">#ff16a085</color>
+    <color name="letter_tile_deep_purple_color">#ff16a085</color>
+    <color name="letter_tile_indigo_color">#ff16a085</color>
+    <color name="letter_tile_blue_color">#ff16a085</color>
+    <color name="letter_tile_light_blue_color">#ff16a085</color>
+    <color name="letter_tile_cyan_color">#ff16a085</color>
+    <color name="letter_tile_teal_color">#ff16a085</color>
+    <color name="letter_tile_green_color">#ff16a085</color>
+    <color name="letter_tile_light_green_color">#ff16a085</color>
+    <color name="letter_tile_orange_color">#ff16a085</color>
+    <color name="letter_tile_deep_orange_color">#ff16a085</color>
+    <color name="letter_tile_grey_color">#ff16a085</color>
+    <color name="letter_tile_red_color_dark">#ff16a085</color>
+    <color name="letter_tile_pink_color_dark">#ff16a085</color>
+    <color name="letter_tile_purple_color_dark">#ff16a085</color>
+    <color name="letter_tile_deep_purple_color_dark">#ff16a085</color>
+    <color name="letter_tile_indigo_color_dark">#ff16a085</color>
+    <color name="letter_tile_blue_color_dark">#ff16a085</color>
+    <color name="letter_tile_light_blue_color_dark">#ff16a085</color>
+    <color name="letter_tile_cyan_color_dark">#ff16a085</color>
+    <color name="letter_tile_teal_color_dark">#ff16a085</color>
+    <color name="letter_tile_green_color_dark">#ff16a085</color>
+    <color name="letter_tile_light_green_color_dark">#ff16a085</color>
+    <color name="letter_tile_orange_color_dark">#ff16a085</color>
+    <color name="letter_tile_deep_orange_color_dark">#ff16a085</color>
+    <color name="letter_tile_grey_color_dark">#ff16a085</color>
 </resources>
