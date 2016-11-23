@@ -8,7 +8,7 @@ android {
         applicationId "intellidesigns.pikzel.substratum"
         minSdkVersion 23
         targetSdkVersion 25
-        versionCode 2
+        versionCode 3
         versionName "1.1"
     }
     buildTypes {

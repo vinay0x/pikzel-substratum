@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="acnt">#ff27ae60</color>
+    <color name="prim">#ff27ae60</color>
+    <color name="primdark">#ff27ae60</color>
+    <color name="colorAccent">#ff27ae60</color>
+    <color name="splash_background">#ff27ae60</color>
+    <color name="colorPrimary">#ff27ae60</color>
+    <color name="colorPrimaryDark">#ff27ae60</color>
+    <color name="design_snackbar_background_color">#ff27ae60</color>
+</resources>
