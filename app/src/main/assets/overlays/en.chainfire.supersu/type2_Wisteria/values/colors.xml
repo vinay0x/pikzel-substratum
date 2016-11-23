@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Statusbar -->
+    <color name="material_teal_950">#ff8e44ad</color>
+    <color name="material_teal_500">#ffffff</color>
+
+    <!-- Actiobar -->
+    <color name="material_teal_900">#ff8e44ad</color>
+
+  
+  
+</resources>
