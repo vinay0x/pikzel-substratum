@@ -47,7 +47,7 @@ public class SubstratumLauncher extends Activity {
     // You will need to replace "" with the code you obtained from the Play Developer Console.
     // If ENABLE_ANTI_PIRACY is false, you may skip this
     // TODO: Themers, this is your SECOND step
-    private static final String BASE_64_LICENSE_KEY = "";
+    private static final String BASE_64_LICENSE_KEY = "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAlq1Y9HoEx7d4M5Fjw8MKGcLHogNLZ7YQRNCdnZjxFSIaIT5mn9rflQssvXqX2Sp2/5FQWXimJqt+wO+oYDONupeyBU8N6dpsuICYonxkC92XmmZKt4xEBErYv4GfDvCEF8WQ1o+qK60e8sahbKgsgVrZAKqYeQU8hqcRDMJpXsf8hGyu0wDQ5PCYFuv/M4RdvzNpG+DBsZ8oOiFz82ilV7fpcubf6dIgAF46L8P6aEfzdcZi2A5+6Qucv5EkHLHa2n7Cl61qCaO/nwC+pzydsaK6JafPshxuY0dLGVMOOyEDL6tpaziBaLegUfU13dyWHTv4Q/7l6TNLLospR/KRpwIDAQAB";
     // Build your signed APK using your signature, and run the app once in Substratum
     // (open your theme). Check your logcat!
     // You will need to do this only when submitting to Play. Locate "SubstratumAntiPiracyLog" and
@@ -55,7 +55,7 @@ public class SubstratumLauncher extends Activity {
     // logcat.
     // If ENABLE_ANTI_PIRACY is false, you may skip this
     // TODO: Themers, this is your THIRD step
-    private static final String APK_SIGNATURE_PRODUCTION = "";
+    private static final String APK_SIGNATURE_PRODUCTION = "hH5LRGB5kG8Hxaua8TnoV1HGd6c=";
     // TODO: Themers, this is your FOURTH step
     private static final Boolean THEME_READY = false;
     //
