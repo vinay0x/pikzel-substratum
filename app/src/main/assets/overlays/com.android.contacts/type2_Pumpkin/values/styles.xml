@@ -24,11 +24,11 @@
         <item name="android:colorPrimary">#ffd35400</item>
         <item name="android:colorPrimaryDark">#ffd35400</item>
 	    <item name="android:statusBarColor">#ffd35400</item>
-	    <item name="android:colorBackground">#232329</item>
+	   <!-- <item name="android:colorBackground">#232329</item> -->
 	</style>
 	<style name="ConfirmAddDetailDialogTheme" parent="@android:style/Theme.Material.Dialog.MinWidth">
         <item name="android:colorAccent">#ffd35400</item>
-        <item name="android:colorBackground">#202026</item>
+       <!-- <item name="android:colorBackground">#202026</item> -->
         <item name="android:windowBackground">@*android:color/material_grey_900</item>
         <item name="android:windowCloseOnTouchOutside">true</item>
     </style>
