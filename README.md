@@ -1,2 +1,1 @@
-#Don't Kang! 
-This repository is just for keeping track of things :D 
+#Moved to GitLab private Repository. No more commits here!
