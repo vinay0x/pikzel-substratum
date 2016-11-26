@@ -19,4 +19,6 @@
     <color name="icon_tint_color">#ff16a085</color>
     <color name="theme_accent">#ff16a085</color>
     <color name="divider_color">#00000000</color>
+    
+    <!-- Reset-->
 </resources>
